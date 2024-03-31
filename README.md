@@ -1,4 +1,6 @@
 ### Hi there 👋
+Tech Stack:
+HTML5 JavaScript CSS3 React Redux React Router SASS Semantic UI React TailwindCSS Bootstrap Threejs jQuery JWT NPMAnt-Design Express.jsNext JS NodeJS MongoDB Adobe Photoshop Figma Postman Cloudflare Firebase Heroku Netlify
 
 <!--
 **millenniumSonule/millenniumSonule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
