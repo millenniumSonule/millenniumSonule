@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Learning Exchange as a Frontend Developer.<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
+🔭 I’m currently working as a Frontend Developer.<br>🌱 I’m currently learning TypeScript NextJS ReactJS<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=millenniumSonule&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
