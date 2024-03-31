@@ -2,8 +2,7 @@
 🔭 I’m currently working on Open Learning Exchange as a Frontend Developer.<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=millenniumSonule&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ans0human_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themillennium/) 
 
