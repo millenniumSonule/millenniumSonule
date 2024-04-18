@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as a Frontend Developer.<br>🌱 I’m currently learning TypeScript NextJS ReactJS<br>💬 Ask me about JavaScript, React.js or Frontend related tech<be>
 
-
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{millenniumSonule}/count.svg)
 ## 🌐 Socials:
